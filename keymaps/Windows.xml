@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl windows" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl decimal" />
+  </action>
 </keymap>
