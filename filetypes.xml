@@ -5,6 +5,7 @@
       <mapping pattern="development" type="AUTO_DETECTED" />
       <mapping ext="tet" type="PLAIN_TEXT" />
       <mapping ext="json'" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
