@@ -3,7 +3,7 @@
     <property name="created">2022-04-29T21:15:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2022-04-29T21:25:00</property>
+    <property name="modified">2022-04-30T21:32:05</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -392,7 +392,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="4fff8" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -761,7 +761,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="f7ff" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
