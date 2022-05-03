@@ -9,17 +9,17 @@
                 <map>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
-                      <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="附加到 Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="复合" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
                     <value>
-                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="数据库脚本" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -29,7 +29,7 @@
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
+                      <FeaturePluginData displayName="HTTP 请求" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavaScriptNodeJsTraceType">
@@ -59,7 +59,7 @@
                   </entry>
                   <entry key="JavascriptDebugType">
                     <value>
-                      <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="JavaScript 调试" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -94,12 +94,12 @@
                   </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="tSQLt 测试" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="utPLSQL 测试" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="XSLT">
