@@ -21,6 +21,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
   </action>
@@ -34,10 +37,6 @@
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl numpad9" />
-  </action>
-  <action id="Stop">
-    <keyboard-shortcut first-keystroke="ctrl f2" />
-    <keyboard-shortcut first-keystroke="ctrl numpad8" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl numpad2" />
