@@ -10,10 +10,6 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt f10" />
-    <keyboard-shortcut first-keystroke="ctrl numpad5" />
-  </action>
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl windows" />
@@ -24,6 +20,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl numpad8" />
