@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows 副本" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
@@ -19,7 +22,10 @@
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
-    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
+  <action id="GotoRow">
+    <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl numpad5" />
   </action>
   <action id="LocalHistory.ShowHistory">
