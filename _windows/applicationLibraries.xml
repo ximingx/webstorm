@@ -48,6 +48,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue@3" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue@3" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vue.cjs.prod" type="javaScript">
       <properties>
         <sourceFilesUrls>
