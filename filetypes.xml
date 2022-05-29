@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="development" type="AUTO_DETECTED" />
+      <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping ext="tet" type="PLAIN_TEXT" />
       <mapping ext="json'" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
