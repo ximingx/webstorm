@@ -12,4 +12,10 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1656932926381" />
   </component>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
 </application>
