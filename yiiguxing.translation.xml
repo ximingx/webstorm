@@ -1,0 +1,21 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="ximingx" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1657071982335" />
+  </component>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
