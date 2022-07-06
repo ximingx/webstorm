@@ -1,7 +1,0 @@
-<templateSet group="user">
-  <template name="ximingx" value="/**&#10;  * author: ximingx&#10;  * Github:https://github.com/ximingx&#10;  * csdn: https://ximingx.blog.csdn.net/&#10;  */" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-</templateSet>
