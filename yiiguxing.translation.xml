@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Paste images directly from clipboard into Markdown Documents in Intellij. Images files are deposited in a configurable directory relative to the markdown." />
+      <item value="Allows editing Markdown files within the IDE and seeing the rendered HTML in a live preview. Includes the following features: Highlighting, Completion, Links navigation, Drag and drop image to markup, and Insert actions (for images, tables, and links). Live HTML preview (except Android Studio, see issue and workaround). Live Table editing. Document structure view. Full HTML syntax support out of the box. Embedded language support inside code blocks. Visualizing diagrams for the Mermaid and PlantUML languages. Pandoc Converter for HTML, Microsoft Word, and PDF formats. Ability to customize stylesheets (CSS) for a live preview." />
       <item value="name" />
       <item value="ximingx" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
