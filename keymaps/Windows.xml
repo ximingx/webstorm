@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl numpad3" />
@@ -22,6 +26,14 @@
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl windows" />
+  </action>
+  <action id="ExpandToLevel1" />
+  <action id="ExpandToLevel2" />
+  <action id="ExpandToLevel3" />
+  <action id="ExpandToLevel4" />
+  <action id="ExpandToLevel5" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl multiply" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
