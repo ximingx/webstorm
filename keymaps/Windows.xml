@@ -7,10 +7,6 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
-    <keyboard-shortcut first-keystroke="ctrl numpad8" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl numpad3" />
@@ -43,13 +39,14 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
   </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
     <keyboard-shortcut first-keystroke="ctrl decimal" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f11" />
-    <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl numpad2" />
