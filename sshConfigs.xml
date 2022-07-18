@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="ximingx.com" id="f9fdf1b0-63ce-4e6b-9a3f-0abcb96e628e" port="22" nameFormat="DESCRIPTIVE" username="root" />
-    </configs>
-  </component>
-</application>
